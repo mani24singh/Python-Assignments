@@ -1,2 +1,2 @@
-# Python_Assignments
+# Python Assignments
 Python Essential Assignments - Letsupgrade Python Essentials Course
